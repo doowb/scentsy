@@ -1,0 +1,31 @@
+{
+  "name": "scentsy",
+  "version": "0.0.0",
+  "description": "Smells so good!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doowb/scentsy.git"
+  },
+  "author": {
+    "name": "Brian Woodward",
+    "url": ""
+  },
+  "bugs": {
+    "url": "https://github.com/doowb/scentsy/issues"
+  },
+  "homepage": "https://github.com/doowb/scentsy",
+  "devDependencies": {
+    "verb": "~0.1.28"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": []
+}
